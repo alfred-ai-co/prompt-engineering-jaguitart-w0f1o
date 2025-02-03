@@ -59,3 +59,8 @@ prompt_template = PROMPT_TECHNIQUES["Zero-Shot"]
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Contribution
+Add a Math question to the questionary
+I wasn't able to create a quiz without using the {format_instructions}. Without it, the questions generated were quite similar in all the cases, and the structure lacked the necessary format.
+When you use the chain of thought approach, you can definitely go further in your request and prompt, allowing the AI to reason more deeply and generate more diverse and structured responses.
